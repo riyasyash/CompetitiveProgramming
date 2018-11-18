@@ -35,5 +35,3 @@ class TestQueuewithStack(unittest.TestCase):
             self.queue.dequeue()
 
 
-if __name__ == '__main__':
-    unittest.main()

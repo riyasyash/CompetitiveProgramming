@@ -27,10 +27,7 @@ class Queue():
             raise QueueEmptyException('Queue is empty')
         if self.__out_stack.is_empty():
             self._re_fill_out_stack()
-        try:
-            return self.__out_stack.pop()
-        except StackEmptyException:
-            raise QueueEmptyException('Queue is empty')
+        return self.__out_stack.pop()
 
     def _re_fill_out_stack(self):
         while (self.__in_stack.length()):
