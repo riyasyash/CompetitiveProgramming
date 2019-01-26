@@ -1,4 +1,4 @@
-class Stack():
+class Stack:
     """
     This is a simple implementation of Stack
     """
