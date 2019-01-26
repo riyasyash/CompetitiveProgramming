@@ -9,3 +9,6 @@ This repo contains the implementations of different data structures and solution
 #### Stack
 * Implementation of Stack
 * Queue using Stack
+
+#### Queue
+* Implementation of Queue
