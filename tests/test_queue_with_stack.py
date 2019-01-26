@@ -3,7 +3,7 @@ import unittest
 from Stack.Queue_with_stack import Queue, QueueEmptyException
 
 
-class TestQueuewithStack(unittest.TestCase):
+class TestQueueWithStack(unittest.TestCase):
     def setUp(self):
         self.queue = Queue()
 
@@ -21,7 +21,7 @@ class TestQueuewithStack(unittest.TestCase):
         self.assertEqual(5, self.queue.dequeue())
         self.assertEqual(10, self.queue.dequeue())
 
-    def test_dequeue_with_interemittent_enqueu(self):
+    def test_dequeue_with_intermittent_enqueue(self):
         self.queue.enqueue(5)
         self.queue.enqueue(10)
         self.assertEqual(5, self.queue.dequeue())
@@ -33,5 +33,3 @@ class TestQueuewithStack(unittest.TestCase):
     def test_cannot_dequeue_from_empty_queue(self):
         with self.assertRaises(QueueEmptyException):
             self.queue.dequeue()
-
-

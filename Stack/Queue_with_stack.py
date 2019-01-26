@@ -1,14 +1,15 @@
-from Stack.Stack import Stack, StackEmptyException
+from Stack.Stack import Stack
 
 
 class QueueEmptyException(Exception):
     pass
 
 
-class Queue():
+class Queue:
     """
     An implementation of Queue with two Stacks
     """
+
     def __init__(self):
         self.__in_stack = Stack()
         self.__out_stack = Stack()
@@ -30,5 +31,5 @@ class Queue():
         return self.__out_stack.pop()
 
     def _re_fill_out_stack(self):
-        while (self.__in_stack.length()):
+        while self.__in_stack.length():
             self.__out_stack.push(self.__in_stack.pop())

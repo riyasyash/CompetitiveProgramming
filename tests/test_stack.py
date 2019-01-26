@@ -27,5 +27,3 @@ class TestStack(unittest.TestCase):
 
     def test_is_stack_empty_returns_true_for_empty_stack(self):
         self.assertEqual(True, self.stack.is_empty())
-
-
