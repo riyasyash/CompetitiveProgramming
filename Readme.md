@@ -12,4 +12,4 @@ This repo contains the implementations of different data structures and solution
 
 #### Queue
 * Implementation of Queue
-
+* Stack using Queue
