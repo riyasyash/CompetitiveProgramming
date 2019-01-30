@@ -4,10 +4,10 @@ python:
   - "3.6.2"
 
 install:
-  - pip install -r requirements.txt
+  - make init
 
 script:
-  - coverage run -m unittest tests/*.py
+  - make test
 
 after_success:
   - codecov $codecovt
