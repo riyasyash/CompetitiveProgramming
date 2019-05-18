@@ -2,5 +2,5 @@ certifi==2019.3.9
 chardet==3.0.4
 codecov==2.0.15
 coverage==4.5.3
-idna==2.7
+idna==2.8
 requests==2.20.1
