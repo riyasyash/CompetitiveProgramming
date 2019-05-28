@@ -9,10 +9,10 @@ This repo contains the implementations of different data structures and solution
 
 ### Contents
 
-#### Stack
-* Implementation of Stack
-* Queue using Stack
+#### [Stack](Stack)
+* [Implementation of Stack](Stack/Stack.py)
+* [Queue using Stack](Stack/Queue_with_stack.py)
 
-#### Queue
-* Implementation of Queue
-* Stack using Queue
+#### [Queue](Queue)
+* [Implementation of Queue](Queue/Queue.py)
+* [Stack using Queue](Queue/stack_with_queue.py)
