@@ -10,9 +10,12 @@ This repo contains the implementations of different data structures and solution
 ### Contents
 
 #### Stack
-* Implementation of Stack
+* Implementation of Stack 
 * Queue using Stack
 
 #### Queue
 * Implementation of Queue
 * Stack using Queue
+
+#### Number Systems
+* Convert Excel column names to numbers.
