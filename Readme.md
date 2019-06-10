@@ -16,3 +16,6 @@ This repo contains the implementations of different data structures and solution
 #### [Queue](Queue)
 * [Implementation of Queue](Queue/Queue.py)
 * [Stack using Queue](Queue/stack_with_queue.py)
+
+#### [Number Systems](NumberSystems)
+* [Convert Excel column names to numbers](NumberSystems/ExcelConverter.py)
