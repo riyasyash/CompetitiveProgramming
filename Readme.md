@@ -19,3 +19,7 @@ This repo contains the implementations of different data structures and solution
 
 #### [Number Systems](NumberSystems)
 * [Convert Excel column names to numbers](NumberSystems/ExcelConverter.py)
+
+#### [Search](Searching)
+* [Linear Serach](Searching/linear_search.py)
+* [Binary Search](Searching/BinarySearch.py)
