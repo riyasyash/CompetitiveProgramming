@@ -5,7 +5,7 @@
 [![Python 3](https://pyup.io/repos/github/riyasyash/CompetitiveProgramming/python-3-shield.svg)](https://pyup.io/repos/github/riyasyash/CompetitiveProgramming/)
 
 ## Competitive Programming
-This repo contains the implementations of different data structures and solutions using them in Python.
+This repo contains the implementations of different data structures and solutions to cs problems.
 
 ### Contents
 
