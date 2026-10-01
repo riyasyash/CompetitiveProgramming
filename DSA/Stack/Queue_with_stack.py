@@ -1,4 +1,4 @@
-from Stack.Stack import Stack
+from DSA.Stack.Stack import Stack
 
 
 class QueueEmptyException(Exception):

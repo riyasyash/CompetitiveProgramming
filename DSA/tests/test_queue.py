@@ -1,6 +1,6 @@
 import unittest
 
-from Queue.Queue import Queue, QueueEmptyException
+from DSA.Queue.Queue import Queue, QueueEmptyException
 
 
 class TestQueue(unittest.TestCase):

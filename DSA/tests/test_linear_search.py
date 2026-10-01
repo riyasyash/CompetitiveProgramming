@@ -1,6 +1,6 @@
 import unittest
 
-from Searching.linear_search import LinearSearch
+from DSA.Searching.linear_search import LinearSearch
 
 
 class TestBinarySearch(unittest.TestCase):

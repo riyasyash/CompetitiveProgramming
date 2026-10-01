@@ -1,6 +1,6 @@
 import unittest
 
-from Searching.BinarySearch import BinarySearch
+from DSA.Searching.BinarySearch import BinarySearch
 
 
 class TestBinarySearch(unittest.TestCase):

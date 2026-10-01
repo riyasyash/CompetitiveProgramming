@@ -1,6 +1,6 @@
 import unittest
 
-from Queue.stack_with_queue import Stack
+from DSA.Queue.stack_with_queue import Stack
 
 
 class TestStackWithQueue(unittest.TestCase):

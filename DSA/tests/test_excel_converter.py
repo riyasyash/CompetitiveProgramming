@@ -1,6 +1,6 @@
 import unittest
 
-from NumberSystems.ExcelConverter import ExcelConverter
+from DSA.NumberSystems.ExcelConverter import ExcelConverter
 
 
 class TestExcelConverter(unittest.TestCase):

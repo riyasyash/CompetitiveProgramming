@@ -1,6 +1,6 @@
 import unittest
 
-from Arrays.missing_number import MissingNumberEvaluator
+from DSA.Arrays.missing_number import MissingNumberEvaluator
 
 
 class TestMissingNumberEvaluator(unittest.TestCase):

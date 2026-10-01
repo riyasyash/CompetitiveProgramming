@@ -1,4 +1,4 @@
-from Queue.Queue import Queue
+from DSA.Queue.Queue import Queue
 
 
 class Stack:

@@ -1,4 +1,4 @@
-from Searching.search import Search
+from DSA.Searching.search import Search
 
 
 class LinearSearch(Search):

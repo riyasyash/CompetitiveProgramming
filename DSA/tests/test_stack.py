@@ -1,6 +1,6 @@
 import unittest
 
-from Stack.Stack import Stack, StackEmptyException
+from DSA.Stack.Stack import Stack, StackEmptyException
 
 
 class TestStack(unittest.TestCase):

@@ -1,6 +1,6 @@
 import unittest
 
-from Sorting.sort_with_presedence import SortWithPrecedence
+from DSA.Sorting.sort_with_presedence import SortWithPrecedence
 
 
 class TestSortWithPrecedence(unittest.TestCase):

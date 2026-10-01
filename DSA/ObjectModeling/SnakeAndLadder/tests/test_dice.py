@@ -1,6 +1,6 @@
 import unittest
 
-from ObjectModeling.SnakeAndLadder.SankeAndLadder.Dice import Dice
+from DSA.ObjectModeling.SnakeAndLadder.SankeAndLadder.Dice import Dice
 
 
 class TestDice(unittest.TestCase):

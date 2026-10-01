@@ -1,6 +1,6 @@
 import unittest
 
-from Stack.Queue_with_stack import Queue, QueueEmptyException
+from DSA.Stack.Queue_with_stack import Queue, QueueEmptyException
 
 
 class TestQueueWithStack(unittest.TestCase):
